@@ -23,6 +23,10 @@
 <a href="https://instagram.com/brunoribeirol" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-brunoribeirol-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+
 
 <!--
 **brunoribeirol/brunoribeirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +41,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoribeirol&color=red" alt="Profile views" /> </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
