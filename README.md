@@ -1,18 +1,15 @@
 <h1 align="left">What's up I'm Bruno Ribeiro!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
+<br>
 
-
-
-### 💬 &nbsp;About me:
+## 💬About me:
 - 🔥 Junior Front-End Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
-- 🔭 Currently working with: Javascript, Typescript, ReactJS, Chakra UI, Material UI.
-- 🌱 Currently learning: Node
+- 🌱 Currently learning: JavaScript
 
 <br>
 
-## 🛠 &nbsp;Tech Stack:
-
+## 🛠Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,8 +20,7 @@
 
 <br>
 
-## 📫 &nbsp;Contact:
-
+## 📫Contact:
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/brunoribeirol" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brunoribeirol-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -35,6 +31,8 @@
 <a href="https://gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
+
+<br>
 
 
 <!--
