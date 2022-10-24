@@ -3,9 +3,10 @@
 <br>
 
 ## 💬About me:
-- 🔥 Junior Front-End Developer 
-- 📘 Computer Science at the University Tiradentes Center (UNIT)
+- 🔥 Junior Front-End Developer
 - 🌱 Currently learning: JavaScript
+- 📘 2° year of Computer Science at UNIT-AL
+- 💻 Studying to get my first opportunity on the market
 
 <br>
 
