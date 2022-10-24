@@ -1,4 +1,4 @@
-<h1 align="left">What's up I'm Bruno Ribeiro!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">What's up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Bruno Ribeiro!</h1>
 
 <br>
 
