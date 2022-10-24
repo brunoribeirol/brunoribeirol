@@ -4,7 +4,7 @@
 
 ## 💬About me:
 - 🔥 Junior Front-End Developer 
-- 📘 Computer Science at the Tiradentes University Center (UNIT)
+- 📘 Computer Science at the University Tiradentes Center (UNIT)
 - 🌱 Currently learning: JavaScript
 
 <br>
