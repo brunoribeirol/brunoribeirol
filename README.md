@@ -5,7 +5,7 @@
 ## 💬About me:
 - 🔥 Junior Front-End Developer
 - 🌱 Currently learning: JavaScript
-- 📘 2° year of Computer Science at UNIT-AL
+- 📘 1st year of Computer Science at CESAR School
 - 💻 Studying to get my first opportunity on the market
 
 <br>
