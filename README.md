@@ -59,4 +59,6 @@ Here are some ideas to get you started:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribeirol&layout=compact&theme=vision-friendly-dark" alt="brunoribeirol's most languages"/>
 </p>
 
+APRENDENDO A FAZER READ.ME https://www.alura.com.br/artigos/escrever-bom-readme#badges
+
 -->
