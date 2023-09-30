@@ -1,8 +1,8 @@
-<h1 align="center">What's up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Bruno Ribeiro!</h1>
+<h1 align="center">What's up? I'm Bruno Ribeiro</h1>
 
 <br>
 
-## 💬About me:
+## 💬 About me:
 - 📘 Computer Science at CESAR School
 - 🌱 Currently learning: C and Django
 - 💻 Studying to get my first opportunity on the market
@@ -15,7 +15,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoribeirol&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=brunoribeirol&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-## 🛠Tech Stack:
+## 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A??style=flat&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -33,7 +33,7 @@
 
 <br>
 
-## 📫Contact:
+## 📫 Contact:
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/brunoribeirol" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brunoribeirol-05122A?style=flat&logo=linkedin" alt="linkedin"/>
