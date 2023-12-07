@@ -46,6 +46,9 @@
  <img align="center" src="https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
+[![Linktree](https://img.shields.io/badge/Linktree-05122A?style=flat&logo=linktree)](https://linktr.ee/brunoribeirol)
+
+
 <br>
 
 
