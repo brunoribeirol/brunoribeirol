@@ -85,6 +85,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)&nbsp;
 -->
 
+<!--
+# Different Badges
+
+- AI
+https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black
+https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
+-->
+
 <br>
 
 ## 📫 Contact:
