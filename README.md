@@ -103,12 +103,13 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 [![Instagram](https://img.shields.io/badge/-brunoribeirol-000000?style=flat&logo=instagram)](https://instagram.com/brunoribeirol)&nbsp;
 [![Gmail](https://img.shields.io/badge/-brunorllaraujo@gmail.com-000000?style=flat&logo=gmail)](mailto:brunorllaraujo@gmail.com)&nbsp;
 
+<!--
 <br>
 
 <img src="https://raw.githubusercontent.com/brunoribeirol/brunoribeirol/output/snake.svg" alt="Snake animation" />
 
 ###
-
+-->
 
 <!--
 [![Gmail](https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-000000?style=flat&logo=gmail)](mailto:araujoribeiro.bruno@gmail.com)&nbsp;
