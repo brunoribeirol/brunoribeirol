@@ -4,7 +4,7 @@
 
 ## 💬 About me:
 - 📘 Computer Science @ CESAR School
-- 🌱 Currently learning: Data Science
+- 🌱 Currently learning: Machine Learning & Data Science
 - 💻 Studying to get my first opportunity on the market
 
 <br>
