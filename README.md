@@ -122,7 +122,6 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 
 ## 📫 Contact:
 [![LinkedIn](https://img.shields.io/badge/brunoribeirol-000000?style=flat&logo=linkedin)](https://linkedin.com/in/brunoribeirol)&nbsp;
-[![Instagram](https://img.shields.io/badge/-brunoribeirol-000000?style=flat&logo=instagram)](https://instagram.com/brunoribeirol)&nbsp;
 [![Gmail](https://img.shields.io/badge/-brunorllaraujo@gmail.com-000000?style=flat&logo=gmail)](mailto:brunorllaraujo@gmail.com)&nbsp;
 
 <!--
