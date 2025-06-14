@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # ou master, dependendo da sua branch
+      - main 
 
 jobs:
   generate:
