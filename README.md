@@ -11,17 +11,6 @@
 
 ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-
-```rust
-From: 10 March 2025 - To: 13 June 2025
-
-Total Time: 160 hrs 11 mins
-
-Java               57 hrs 36 mins  >>>>>>>>-----------------   33.94 %
-Python             56 hrs 51 mins  >>>>>>>>-----------------   33.50 %
-Other              9 hrs 31 mins   >------------------------   05.61 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
