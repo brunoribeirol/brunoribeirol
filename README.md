@@ -9,6 +9,7 @@
 
 <br>
 
+## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
 
 ```rust
@@ -22,6 +23,9 @@ Other              9 hrs 31 mins   >------------------------   05.61 %
 ```
 
 <!--END_SECTION:waka-->
+
+<br>
+
 
 <!--
 | ![brunoribeirol's Stats](https://github-readme-stats.vercel.app/api?username=brunoribeirol&theme=dark&show_icons=true&hide_border=false&count_private=true) | ![brunoribeirol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunoribeirol&theme=dark&hide_border=false) | ![brunoribeirol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribeirol&theme=dark&show_icons=true&hide_border=false&layout=compact) |
