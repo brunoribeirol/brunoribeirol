@@ -25,9 +25,9 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days  # optional (all_time -> OG)
+          BLOCKS: ░▒▓█ # optional
+          CODE_LANG: python # optional
+          TIME_RANGE: last_30_days  # optional (all_time -> OG)
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
