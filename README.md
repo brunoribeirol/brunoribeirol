@@ -12,7 +12,7 @@
 ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
 
-```text
+```rust
 From: 10 March 2025 - To: 13 June 2025
 
 Total Time: 160 hrs 11 mins
