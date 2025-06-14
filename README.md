@@ -2,7 +2,7 @@
 
 <br>
 
-## 💬 About me:
+## 💬 About me
 - 📘 Computer Science @ CESAR School
 - 🌱 Currently learning: Machine Learning & Data Science
 - 💻 Studying to get my first opportunity on the market
@@ -33,7 +33,7 @@ Other              9 hrs 31 mins   >------------------------   05.61 %
 -->
 
 
-## 🛠 Tech Stack:
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=306998)&nbsp;
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=F7DF1E)&nbsp; 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
@@ -137,17 +137,14 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 
 <br>
 
-## 📫 Contact:
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/brunoribeirol-000000?style=flat&logo=linkedin)](https://linkedin.com/in/brunoribeirol)&nbsp;
 [![Gmail](https://img.shields.io/badge/-brunorllaraujo@gmail.com-000000?style=flat&logo=gmail)](mailto:brunorllaraujo@gmail.com)&nbsp;
 
-<!--
 <br>
 
-<img src="https://raw.githubusercontent.com/brunoribeirol/brunoribeirol/output/snake.svg" alt="Snake animation" />
-
-###
--->
+## 🐍 Snake Activity
+![snake svg](https://github.com/brunoribeirol/brunoribeirol/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 [![Gmail](https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-000000?style=flat&logo=gmail)](mailto:araujoribeiro.bruno@gmail.com)&nbsp;
@@ -166,7 +163,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-APRENDENDO A FAZER READ.ME https://www.alura.com.br/artigos/escrever-bom-readme#badges
-
 -->
