@@ -9,24 +9,6 @@
 
 <br>
 
-## 📊 WakaTime Stats
-<!--START_SECTION:waka-->
-
-```python
-From: 15 May 2025 - To: 14 June 2025
-
-Total Time: 37 hrs 30 mins
-
-Java              14 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   34.12 %
-Python            7 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-Other             3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
-
 <!--
 | ![brunoribeirol's Stats](https://github-readme-stats.vercel.app/api?username=brunoribeirol&theme=dark&show_icons=true&hide_border=false&count_private=true) | ![brunoribeirol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunoribeirol&theme=dark&hide_border=false) | ![brunoribeirol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribeirol&theme=dark&show_icons=true&hide_border=false&layout=compact) |
 | :-: | :-: | :-: |
@@ -140,6 +122,23 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/brunoribeirol-000000?style=flat&logo=linkedin)](https://linkedin.com/in/brunoribeirol)&nbsp;
 [![Gmail](https://img.shields.io/badge/-brunorllaraujo@gmail.com-000000?style=flat&logo=gmail)](mailto:brunorllaraujo@gmail.com)&nbsp;
+
+<br>
+
+## 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+
+```python
+From: 15 May 2025 - To: 14 June 2025
+
+Total Time: 37 hrs 30 mins
+
+Java              14 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   34.12 %
+Python            7 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Other             3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+```
+
+<!--END_SECTION:waka-->
 
 <br>
 
