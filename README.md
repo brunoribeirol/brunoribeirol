@@ -129,13 +129,13 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 May 2025 - To: 17 June 2025
+From: 19 May 2025 - To: 18 June 2025
 
-Total Time: 25 hrs 43 mins
+Total Time: 27 hrs 34 mins
 
-Java              9 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Python            4 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Other             3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Java              9 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Python            6 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+Other             3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
 ```
 
 <!--END_SECTION:waka-->
