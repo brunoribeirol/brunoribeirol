@@ -129,7 +129,7 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 June 2025 - To: 08 July 2025
+From: 09 June 2025 - To: 09 July 2025
 
 Total Time: 23 hrs 24 mins
 
