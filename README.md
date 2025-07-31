@@ -129,17 +129,17 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 June 2025 - To: 28 July 2025
+From: 30 June 2025 - To: 30 July 2025
 
-Total Time: 35 hrs 5 mins
+Total Time: 32 hrs 40 mins
 
-Python       23 hrs 27 mins  ████████████████▓░░░░░░░░   66.54 %
-TypeScript   4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Markdown     2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Git Config   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Makefile     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python       21 hrs 2 mins   ████████████████░░░░░░░░░   64.08 %
+TypeScript   4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown     2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Git Config   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Makefile     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Bash         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
