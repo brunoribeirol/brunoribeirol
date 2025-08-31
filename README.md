@@ -129,15 +129,15 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 July 2025 - To: 23 August 2025
+From: 31 July 2025 - To: 30 August 2025
 
-Total Time: 13 hrs 5 mins
+Total Time: 13 hrs 34 mins
 
-Python       7 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.44 %
-Makefile     1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Bash         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Markdown     38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Python       8 hrs 19 mins   ███████████████░░░░░░░░░░   59.71 %
+Makefile     1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Bash         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Markdown     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
