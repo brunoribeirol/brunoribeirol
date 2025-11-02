@@ -129,17 +129,15 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 October 2025 - To: 25 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 3 hrs 31 mins
+Total Time: 3 hrs 26 mins
 
-Python     1 hr 44 mins    ████████████▒░░░░░░░░░░░░   49.41 %
-C++        53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-Markdown   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-INI        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Makefile   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python     2 hrs 12 mins   ████████████████░░░░░░░░░   63.87 %
+C++        38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+INI        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
