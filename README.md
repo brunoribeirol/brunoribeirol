@@ -129,15 +129,12 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 October 2025 - To: 01 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 3 hrs 26 mins
+Total Time: 1 hr 13 mins
 
-Python     2 hrs 12 mins   ████████████████░░░░░░░░░   63.87 %
-C++        38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-INI        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+C++   1 hr 13 mins    █████████████████████████   99.87 %
+INI   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
