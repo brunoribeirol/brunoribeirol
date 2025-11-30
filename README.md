@@ -129,19 +129,19 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 November 2025 - To: 22 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 19 hrs
 
-C++           56 mins         ██████████████▓░░░░░░░░░░   58.36 %
-Markdown      17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-INI           12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Python        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-HTML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown      4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+Python        4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+C++           2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+INI           1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+TypeScript    1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Git Config    51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Bash          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Objective-C   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+HTML          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
