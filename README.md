@@ -129,17 +129,18 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 March 2026 - To: 28 March 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 25 mins
+Total Time: 1 hr 23 mins
 
-Python       15 mins               ██████████████▒░░░░░░░░░░   57.86 %
-Text         7 mins                ███████░░░░░░░░░░░░░░░░░░   28.56 %
-Markdown     1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-HTML         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       39 mins               ████████████░░░░░░░░░░░░░   47.95 %
+Git Config   18 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+Text         8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Makefile     8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Markdown     5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
