@@ -129,14 +129,17 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 May 2026 - To: 31 May 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 9 hrs 49 mins
+Total Time: 11 hrs 40 mins
 
-Python                     3 hrs 58 mins         █████████▓░░░░░░░░░░░░░░░   38.40 %
-Markdown                   2 hrs 45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
-TypeScript                 2 hrs 8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Other                      31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Markdown     3 hrs 50 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
+Python       2 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+TypeScript   1 hr 28 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Text         52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Bash         51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+HTML         49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Other        28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
