@@ -3,9 +3,9 @@
 <br>
 
 ## 💬 About me
+- 💻 Data Engineer Intern @ AXIA Energia
 - 📘 Computer Science @ CESAR School
-- 🌱 Currently learning: Machine Learning & Data Science
-- 💻 Studying to get my first opportunity on the market
+<!-- - 🌱 Currently learning: Machine Learning & Data Science
 
 <br>
 
@@ -125,9 +125,12 @@ https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorfl
 
 <br>
 
+<!--
+
 ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
 
+<!--
 ```python
 From: 04 July 2026 - To: 11 July 2026
 
@@ -146,8 +149,11 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
 
 <br>
 
+<!--
 ## 🐍 Snake Activity
 ![snake svg](https://github.com/brunoribeirol/brunoribeirol/blob/output/github-contribution-grid-snake-dark.svg)
+
+-->
 
 <!--
 [![Gmail](https://img.shields.io/badge/-araujoribeiro.bruno@gmail.com-000000?style=flat&logo=gmail)](mailto:araujoribeiro.bruno@gmail.com)&nbsp;
