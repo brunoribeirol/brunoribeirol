@@ -3,9 +3,10 @@
 <br>
 
 ## 💬 About me
-- 💻 Data Engineer Intern @ AXIA Energia
-- 📘 Computer Science @ CESAR School
-<!-- - 🌱 Currently learning: Machine Learning & Data Science
+- 💻 Data Intern @ AXIA Energia
+- 📘 Computer Science @ CESAR School (graduating December 2026)
+- 🎓 Final-year project: [ai-etl](https://github.com/brunoribeirol/ai-etl), a LangGraph multi-agent system that turns natural-language specifications into auditable ETL pipelines
+- 🌱 Currently studying: Large Language Models, Data Engineering on AWS, MLOps
 
 <br>
 
@@ -17,21 +18,16 @@
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=306998)&nbsp;
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=F7DF1E)&nbsp; 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=003B57)&nbsp;
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05033)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=white)&nbsp;
+![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat&logo=duckdb&logoColor=FFF000)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-000000?style=flat&logo=dbt&logoColor=FF694B)&nbsp;
+![Dagster](https://img.shields.io/badge/Dagster-000000?style=flat&logo=dagster&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langgraph&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05033)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat&logo=githubactions&logoColor=white)&nbsp;
 
 
 <!--
